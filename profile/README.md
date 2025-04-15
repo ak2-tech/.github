@@ -1,4 +1,4 @@
-# 🚀 [Ak2 Technologies](https://ak2.tech)
+# 🚀 [AK2 Technologies](https://ak2.tech)
 
 **Building the Future of Platforms, Powered by Cloud, DevOps, AI & Security**  
 We architect production-grade systems, secure infrastructure, and develop AI-native SaaS products — enabling startups and enterprises to launch and scale fast.
